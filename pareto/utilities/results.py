@@ -157,6 +157,9 @@ def generate_report(
             "v_F_ReuseDestination_dict": [
                 ("Completion Pad", "Time", "Total Deliveries to Completion Pad")
             ],
+            "v_Pressure_dict": [
+                ("Location", "Time", "Pressure at each node")
+            ],            
             "v_F_DisposalDestination_dict": [
                 ("Disposal Site", "Time", "Total Deliveries to Disposal Site")
             ],
